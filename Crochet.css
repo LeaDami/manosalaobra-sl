@@ -90,6 +90,8 @@ color:darkcyan;
   
   .item-text{
     padding: 1em;
+      text-align: center;
+     font-size: small;
   }
   
   
